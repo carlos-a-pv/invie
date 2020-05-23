@@ -1,2 +1,2 @@
 # invie
-Primer proyecto con Git/GitHub
+Primer proyecto con Git/GitHub con @platzi.com
